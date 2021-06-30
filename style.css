@@ -20,6 +20,8 @@
     background: #fff;
     padding: 5px;
     overflow: hidden;
+    box-shadow: 0 0 100px 9px #999;
+
 }
 .button-wrap {
     width: 220px;
